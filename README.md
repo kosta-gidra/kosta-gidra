@@ -1,16 +1,29 @@
-### Hi there 👋
+## Привет!  Спасибо, что зашли в мой профиль. Меня зовут Константин и я python-разработчик.
 
-<!--
-**kosta-gidra/kosta-gidra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+Реализованные проекты:
+* Дипломная работа: [«API Сервис заказа товаров для розничных сетей»](https://github.com/kosta-gidra/dj_api_diplom) 
 
-Here are some ideas to get you started:
+  * _Задачи проекта_: Автоматизации закупок в розничной сети. Пользователи сервиса — покупатель (менеджер торговой сети, который закупает товары для продажи в магазине) и поставщик товаров.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * _Используемые технологии_: Python, GIT, ORM, Django, Docker, Postman.
+
+
+* Проект: [«Резервное копирование»](https://github.com/kosta-gidra/Backup_YA-VK_API_project)
+  * _Задачи проекта_: Резервное копирования фотографий профиля пользователя vk.com на Яндекс.Диск.
+  * _Используемые технологии_: Python, GIT, API.
+
+
+* Проект: [«VKinder»](https://github.com/AntoshkaNaumov/bot_vk)
+
+  * _Задачи проекта_: Бот, по аналогии с Tinder ищет партнеров на платформе Vkontakte. Командный проект. Отвечал за БД. Реализовал через ORM (SQLAlchemy).
+
+  *  _Используемые технологии_: Python, GIT, API, ORM, API.
+
+
+* Проект: [«Stripe payment + Django»](https://github.com/kosta-gidra/Django_Stripe_project)
+
+  *  _Задачи проекта_: Приложение, созданное на Django, которое общается с API Stripe и создает платежные формы для товаров.
+
+  *  _Используемые технологии_: Python, GIT, API, ORM, Django, html, Bootstrap.
+
