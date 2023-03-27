@@ -5,9 +5,14 @@
 * Дипломная работа: [«API Сервис заказа товаров для розничных сетей»](https://github.com/kosta-gidra/dj_api_diplom) 
 
   * _Задачи проекта_: Автоматизации закупок в розничной сети. Пользователи сервиса — покупатель (менеджер торговой сети, который закупает товары для продажи в магазине) и поставщик товаров.
-
   * _Используемые технологии_: Python, GIT, ORM, Django, Docker, Postman.
 
+
+* Проект: [«Stripe payment + Django»](https://github.com/kosta-gidra/Django_Stripe_project)
+
+  *  _Задачи проекта_: Приложение, созданное на Django, которое общается с API Stripe и создает платежные формы для товаров.
+  *  _Используемые технологии_: Python, GIT, API, ORM, Django, html, Bootstrap.
+  
 
 * Проект: [«Резервное копирование»](https://github.com/kosta-gidra/Backup_YA-VK_API_project)
   * _Задачи проекта_: Резервное копирования фотографий профиля пользователя vk.com на Яндекс.Диск.
@@ -17,13 +22,7 @@
 * Проект: [«VKinder»](https://github.com/AntoshkaNaumov/bot_vk)
 
   * _Задачи проекта_: Бот, по аналогии с Tinder ищет партнеров на платформе Vkontakte. Командный проект. Отвечал за БД. Реализовал через ORM (SQLAlchemy).
-
   *  _Используемые технологии_: Python, GIT, API, ORM, API.
 
 
-* Проект: [«Stripe payment + Django»](https://github.com/kosta-gidra/Django_Stripe_project)
-
-  *  _Задачи проекта_: Приложение, созданное на Django, которое общается с API Stripe и создает платежные формы для товаров.
-
-  *  _Используемые технологии_: Python, GIT, API, ORM, Django, html, Bootstrap.
 
