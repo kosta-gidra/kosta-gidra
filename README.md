@@ -5,7 +5,7 @@
 * Дипломная работа: [«API Сервис заказа товаров для розничных сетей»](https://github.com/kosta-gidra/dj_api_diplom) 
 
   * _Задачи проекта_: Автоматизации закупок в розничной сети. Пользователи сервиса — покупатель (менеджер торговой сети, который закупает товары для продажи в магазине) и поставщик товаров.
-  * _Используемые технологии_: Python, GIT, ORM, Django, Docker, Postman.
+  * _Используемые технологии_: Python, GIT, ORM, Django, Docker, Celery, Redis, Postman.
 
 
 * Проект: [«Stripe payment + Django»](https://github.com/kosta-gidra/Django_Stripe_project)
